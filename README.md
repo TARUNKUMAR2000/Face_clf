@@ -1,5 +1,5 @@
 # Face Classifier project using live video feed
-It uses haar-cascade pre trained face classifier as model and its aim to predict the name of the faces that is in the feed.
+It uses haar-cascade pre trained face classifier as model and its aim to recognize the faces that is in the feed and predict their names.
 
 # CODE
 OPEN_CV_6.ipynb contains the code.
